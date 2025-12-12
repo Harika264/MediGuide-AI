@@ -1,0 +1,7 @@
+{
+  "name": "MediGuide AI",
+  "description": "An AI-powered medical report explainer that simplifies complex lab results into easy-to-understand summaries and actionable advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
